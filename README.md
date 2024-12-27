@@ -7,3 +7,7 @@ Feel free to follow along, share your thoughts, or join the adventure yourself!
 Let’s make this December full of learning and festive joy. 🌟🎁  
 
 Happy coding and happy holidays! 🎅🎄
+
+## Final Update and thoughts
+I had a lot of fun participating in this years AoC, thinking about very common programming puzzles and becoming more sensible to certain solutions and approaches. However, as you can see when looking at the repo, I only endured until day 17, which is certainly not bad, considering that I am no full computer scientist. 
+All in all, I did not stress myself too much and most importantly learned about new memes in the reddit subthread.
